@@ -1,0 +1,8 @@
+<female-name> is a student at <city> High School.
+She is the 2nd best at <subject>.
+Only through <adjective> studying can he/she push through to first.
+<plural-noun> will help make the push.
+Unfortunately, <name>, the first place student, is not going to let her take it without a fight.
+It came down to the final test.
+With a score of <test-grade>, she managed to claim a/an <adjective> victory!
+In the end, it all came down to her <adjective> test-taking skills.
