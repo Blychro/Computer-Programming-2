@@ -7,3 +7,4 @@ The GameCard.java and Game.java code was written by me for HW5, however the HW5.
 StringsList.java was a class that was written for HW6 and HW6.java is a test program for StringsList.java.
 HW7.java used a StringsList.java provided by my professor not in this folder.  This should not cause any issues because the two should be functionally identical. If any problem occurs and I am aware of the error I will correct it.
 HW8.java, OrderedList.java, and LengthOrderedList.java were all written by me for HW8. AbstractStringsList.java, UnorderedStringList.java, StringDuplicateException.java and StringNotFoundException.java were all provided by our professor, Mrs.McCauley and necessary for it to run.  HW8.java is simply test cases for the OrderedList.java and LengthOrderedList.java classes
+Lab5_1_TBM.java was a test case for NumberOutOfRangeException.java and Lab5_2_TBM.java requires an input form inFile.txt
